@@ -4,7 +4,7 @@ Kibo Manana
 
 This is an android based app that is aimed at improving the connectivity as well as give suggestions in case of a disaster.
 
-This app downloads the map of your surroundings within a radius of 2 km from google maps for the offline use.
+This app downloads the map of User's surroundings within a radius of 2 km from google maps for the offline use.
 
 PRE DISASTER MODE:
 --------------------
