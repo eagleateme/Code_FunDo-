@@ -21,12 +21,17 @@ Once the prediction has been given by the Statistical Institutes about a disaste
 
 Using Neural Network Algorithms it starts predicting the routes that would be damaged or the extent to which the damage might be caused, based on previous data regarding similar disasters at nearby locations and comes up with best possible routes that can be taken in case of a disaster using A* algorithm.
 
-It also gives the probability of other disasters ensuing the current disaster,this would help people to understand how essential it is for them to evacuate the place prior to the disaster occurence.
+It also gives the probability of other disasters ensuing the current disaster,this would help people to understand how essential it is for them to evacuate the place prior to the disaster occurrence.
 
 It also collects data of any medical condition that the user has and takes in account this factor to suggest action that has to be taken.
 
 POST DISASTER MODE :
 -----------------------
+
+ASSUMPTION:
+-----------------
+High Population Density
+
 Goals :
 -------------
 1.To help establish network among the users and help evacuation Teams track people in the affected area as Communication would be badly affected
