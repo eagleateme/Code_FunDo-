@@ -17,7 +17,7 @@ Functionality:
 --------------
 The App is given root access and gets its prediction data from websites like UNISDR and Other Statistical Institutes across the Globe.
 
-Once the prediction has been given by the Statistical Institutes about a disaster, this app starts running in the background.
+Once a warning has been issued by UNISDR about any disaster, this app starts running in the background.
 
 Using Neural Network Algorithms it starts predicting the routes that would be damaged or the extent to which the damage might be caused, based on previous data regarding similar disasters at nearby locations and comes up with best possible routes that can be taken in case of a disaster using A* algorithm.
 
