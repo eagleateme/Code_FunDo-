@@ -53,7 +53,7 @@ All mobiles mark their coordinates in a text file which is circulated in the net
 Once a mobile with Internet connectivity is found in the network this data is sent to the Evacuation teams.
 This helps rescue teams in locating people.
 
-Users can locate and communicate with other users in their surroundings thus facilitating resource sharing
+Users can locate and communicate with other users in their surroundings thus facilitating resource sharing.
 It also helps them to gather in groups which would make their rescue simpler.
 
 
